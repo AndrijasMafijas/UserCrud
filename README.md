@@ -16,3 +16,5 @@ A full-stack CRUD application built with **React** and **TypeScript** on the fro
 2. Install dependencies in both frontend and backend directories:
    ```bash
    npm install
+   npm start (in Client)
+   node index.js (in Server)
